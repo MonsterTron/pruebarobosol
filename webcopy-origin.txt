@@ -1,0 +1,48 @@
+Uri: https://piggygang.com/
+File Name: C:\Downloaded Web Sites\piggygang.com\index.htm
+Content Type: text/html
+
+Uri: https://piggygang.com/favicon.ico
+File Name: C:\Downloaded Web Sites\piggygang.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://piggygang.com/logo_192.png
+File Name: C:\Downloaded Web Sites\piggygang.com\logo_192.png
+Content Type: image/png
+
+Uri: https://piggygang.com/manifest.json
+File Name: C:\Downloaded Web Sites\piggygang.com\manifest.json
+Content Type: application/json
+
+Uri: https://piggygang.com/static/css/main.39e3ecdc.chunk.css
+File Name: C:\Downloaded Web Sites\piggygang.com\static\css\main.39e3ecdc.chunk.css
+Content Type: text/css
+
+Uri: https://piggygang.com/static/js/2.9e29d5f5.chunk.js
+File Name: C:\Downloaded Web Sites\piggygang.com\static\js\2.9e29d5f5.chunk.js
+Content Type: application/javascript
+
+Uri: https://piggygang.com/static/js/main.082cdb6d.chunk.js
+File Name: C:\Downloaded Web Sites\piggygang.com\static\js\main.082cdb6d.chunk.js
+Content Type: application/javascript
+
+Uri: https://piggygang.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\piggygang.com\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js
+File Name: C:\Downloaded Web Sites\piggygang.com\beacon.min.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\piggygang.com\css2.css
+Content Type: text/css
+
+Uri: https://piggygang.com/static/media/temp-piggy-lots-of-piggy.c4478c7b.png
+File Name: C:\Downloaded Web Sites\piggygang.com\static\media\temp-piggy-lots-of-piggy.c4478c7b.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@400;700&display=swap);body,html{width:100%25;height:100%25}input::-ms-clear,input::-ms-reveal{display:none}*,:after,:before{box-sizing:border-box}html{font-family:sans-serif;line-height:1.15;-webkit-text-size-adjust:100%25;-ms-text-size-adjust:100%25;-ms-overflow-style:scrollbar;-webkit-tap-highlight-color:rgba(0,0,0,0)}@-ms-viewport{width:device-width}body{color:rgba(0,0,0,.85);font-size:14px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji
+File Name: C:\Downloaded Web Sites\piggygang.com\css2-1.css
+Content Type: text/css
+
